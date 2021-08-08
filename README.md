@@ -1,6 +1,6 @@
 # oscp
 
-## Reminder
+## Reminder, keyword is Active Information Gathering
 #### always use the HELP command
 #### qns why for everything
 #### ENUMERATE and check EACH and EVERY service and FOLDER
