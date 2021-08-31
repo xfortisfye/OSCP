@@ -1,4 +1,5 @@
 #!/usr/bin/python
+### For finding which register(?) is vulnerable to buffer overflow
 import sys, socket
 from time import sleep
 
